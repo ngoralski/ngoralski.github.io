@@ -1,0 +1,8 @@
+site_name: Nicolas GORALSKI docs
+site_url: https://ngoralski.github.io/
+plugins:
+    - search
+theme:
+    name: readthedocs
+nav:
+  - Home: 'index.md'
