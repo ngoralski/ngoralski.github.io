@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to personal space
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+I'm a french IT guy working in Luxembourg for an IT company.
 
-## Commands
+I'm passionated by Sci-fi, Heroic-Fantasy, Technology, Linux and FreeBSD.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+As a passionated IT guy I try to push my self behond my limits and other's limits.
+Trying to improve process, method, make IT simple (KISS !!), industrialization and automotion are some let-motiv.
 
-## Project layout
+You will find here some tips and tricks, documentations, memories stored for later usage.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
