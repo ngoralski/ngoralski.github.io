@@ -1,0 +1,21 @@
+site_name: Nicolas GORALSKI docs
+plugins:
+    - search
+theme:
+    name: material
+nav:
+  - Home: 'index.md'
+  - Softs: 'softs.md'
+  - IT:
+      - freeipa: 'IT/freeipa.md'
+      - Linux Best Practices: 'IT/linux-best-practices.md'
+
+markdown_extensions:
+  - meta
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
