@@ -9,6 +9,7 @@ nav:
   - IT:
       - freeipa: 'IT/freeipa.md'
       - Linux Best Practices: 'IT/linux-best-practices.md'
+      - Domoticz: 'domoticz/index.md'
 
 markdown_extensions:
   - meta
