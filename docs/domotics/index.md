@@ -1,4 +1,4 @@
-title: domoticz
+title: tasmota
 date: 2022-01-16 07:32:04
 
 
@@ -44,21 +44,5 @@ bind_interface eth0
 ### Domoticz
 
 #### Addons
-(domoticz_mqtt_discovery)[https://github.com/emontnemery/domoticz_mqtt_discovery)
+[domoticz_mqtt_discovery](https://github.com/emontnemery/domoticz_mqtt_discovery]
 
-### Tasmota
-
-#### On SonOff 
-Other Parameters / Model
-``` editorconfig
-{"NAME":"TX T3EU3C","GPIO":[32,1,0,1,226,225,33,34,224,576,0,0,0,0],"FLAG":0,"BASE":30}
-```
-
-``` editorconfig
-Backlog setoption19 1; MqttUser 0; MqttPassword 0; FullTopic homeassistant/%prefix%/%topic%/
-```
-
-As i will use the switch for a shutter
-``` editorconfig
-SetOption80 1
-```
