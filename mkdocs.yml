@@ -10,7 +10,8 @@ nav:
       - freeipa: 'IT/freeipa.md'
       - Linux Best Practices: 'IT/linux-best-practices.md'
       - Bookmarks: 'IT/bookmarks.md'      
-      - Python Tips \& Tricks: 'IT/python_tipstricks.md'      
+      - Python Tips \& Tricks: 'IT/python_tipstricks.md'
+      - Cheatsheets: 'IT/cheatsheets/index.md'
   - Domotic:
       - Tasmota: ''
       - Domoticz: 'domoticz/combine.md'
