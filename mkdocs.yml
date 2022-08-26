@@ -4,7 +4,7 @@ plugins:
 theme:
     name: material
 nav:
-  - Home: 'index.md'
+  - Home: 'combine.md'
   - Softs: 'softs.md'
   - IT:
       - freeipa: 'IT/freeipa.md'
@@ -12,7 +12,7 @@ nav:
       - Bookmarks: 'IT/bookmarks.md'      
   - Domotic:
       - Tasmota: ''
-      - Domoticz: 'domoticz/index.md'
+      - Domoticz: 'domoticz/combine.md'
 
 markdown_extensions:
   - meta
